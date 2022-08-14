@@ -13,6 +13,7 @@ This repo is used to do some tests, challenge, experiments, etc.
 
 ## Contracts/learnweb3
 - [Mood contract](https://github.com/brusmax/solidity-demos/tree/main/contracts/learnweb3): Contract that interacts with an HTML using Metamask, Remix IDE, Ethers.js and Ropsten Testnet.
+- [Create my own ERC-20 Token](https://github.com/brusmax/solidity-demos/blob/main/contracts/BrusmaxToken/BrumaxToken.sol): Create my own ERC-20 Token called BrusmaxToken - Symbol: BMX 
 
 The projects on this repo are located under contracts folder
 
