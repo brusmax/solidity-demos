@@ -11,6 +11,9 @@ This repo is used to do some tests, challenge, experiments, etc.
 ## Contracts/openzeppeling class
 - [Roles.sol:](https://github.com/brusmax/solidity-demos/blob/main/contracts/openzeppeling%20class/Roles.sol) Basic use of AccessControl contract to use roles
 
+## Contracts/learnweb3
+- [Mood contract](https://github.com/brusmax/solidity-demos/tree/main/contracts/learnweb3): Contract that interacts with an HTML using Metamask, Remix IDE, Ethers.js and Ropsten Testnet.
+
 The projects on this repo are located under contracts folder
 
 
@@ -24,7 +27,7 @@ You can find more about me here:
 - [LinkedIn](https://www.linkedin.com/in/brusmax)
 - [Twitter](https://twitter.com/brusmax)
 - [Web](https://brusmax.com/)
-- [Blog](https://tipsventasonline.brusmax.com/)
+- [Blog](https://blog.brusmax.com/)
 
 
 ## License
